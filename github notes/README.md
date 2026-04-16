@@ -40,3 +40,7 @@ this is new
 git push -u origin main
 
 
+
+ git pull origin main - if you made changes in github and for refecting the changes to local
+
+ 
