@@ -43,4 +43,13 @@ git push -u origin main
 
  git pull origin main - if you made changes in github and for refecting the changes to local
 
- 
+  659  commit -m"added few commits"
+  660  git commit -m"added few commits"
+  661  git commit -m "added few commits"
+  662  ls
+  663  git add "github notes/README.md"
+  664  ls
+  665  git status
+  666  git commit -m "added few commits"
+  667  git push origin main
+  668  history
